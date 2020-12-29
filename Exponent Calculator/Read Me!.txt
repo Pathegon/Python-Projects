@@ -1,0 +1,1 @@
+Simple exponential calculator that allows you to input x and n and display the results in a tabular format.
